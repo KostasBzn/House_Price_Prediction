@@ -9,8 +9,6 @@ This project focuses on predicting house prices using a **Gradient Boosting Regr
 - **Hyperparameter Tuning**: Optimizing the model using **GridSearchCV** with cross-validation.
 - **Evaluation**: Assessing the model's performance using metrics like **MAE**, **RMSE**, **MAPE**, and **R²** on both training and test datasets.
 
-The final model is trained on the entire dataset for deployment or further use.
-
 ---
 
 ## How to Run the Project
